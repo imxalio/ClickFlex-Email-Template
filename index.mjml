@@ -15,7 +15,9 @@
   <mj-body>
     <mj-section background-color="#FAE6D8">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/pTTsFrM3/logo.png" width="200px" />
+        <!-- <mj-image src="https://i.postimg.cc/pTTsFrM3/logo.png" width="200px" /> -->
+        <mj-text font-size="66px" align="center">ClickFlex</mj-text>
+        <mj-divider border-color="#F45E43"></mj-divider>
       </mj-column>
     </mj-section>
 
@@ -55,73 +57,76 @@
     </mj-section>
 
     <mj-section>
-      <!--  -->
+      <!-- Digital Marketing -->
       <mj-column vertical-align="bottom">
         <mj-image
-          align="left"
+          align="center"
           width="100px"
           height="100px"
           src="https://svgshare.com/i/wkZ.svg"
         />
-        <mj-text css-class="featuresTitle">Digital Marketing</mj-text>
-        <mj-text css-class="featuresDesc"
-          >We offer strategic digital marketing services aimed at increasing
-          your online presence.</mj-text
-        >
+        <mj-text align="center" css-class="featuresTitle">
+          Digital Marketing
+        </mj-text>
+        <mj-text align="center" css-class="featuresDesc">
+          Elevate your brand with effective digital marketing.
+        </mj-text>
       </mj-column>
 
-      <!--  -->
+      <!-- Media Coverage -->
       <mj-column vertical-align="bottom">
         <mj-image
-          align="left"
-          width="100px"
-          height="100px"
-          src="https://svgshare.com/i/wmJ.svg"
-        />
-
-        <mj-text css-class="featuresTitle">Social Media Managment</mj-text>
-        <mj-text css-class="featuresDesc"
-          >Let us professionally manage your social media accounts. We will
-          assist you in engaging with your audience</mj-text
-        >
-      </mj-column>
-    </mj-section>
-    <!--  -->
-
-    <mj-section>
-      <!--  -->
-      <mj-column vertical-align="bottom">
-        <mj-image
-          align="left"
-          width="100px"
-          height="100px"
-          src="https://svgshare.com/i/wmd.svg"
-        />
-        <mj-text css-class="featuresTitle">Desgin and Motion graphic</mj-text>
-        <mj-text css-class="featuresDesc"
-          >We will help you enhance your brand through attractive designs and
-          creative graphics.</mj-text
-        >
-      </mj-column>
-
-      <!--  -->
-      <mj-column vertical-align="bottom">
-        <mj-image
-          align="left"
+          align="center"
           width="100px"
           height="100px"
           src="https://svgshare.com/i/wmn.svg"
         />
 
-        <mj-text css-class="featuresTitle">Media coverge</mj-text>
-        <mj-text css-class="featuresDesc"
-          >We will capture the essence of your brand through professional
-          photography and videography.</mj-text
-        >
+        <mj-text align="center" css-class="featuresTitle">
+          Media Coverage
+        </mj-text>
+        <mj-text align="center" css-class="featuresDesc">
+          Capture your brand essence with professional media.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Design and Motion Graphics -->
+    <mj-section>
+      <mj-column vertical-align="bottom">
+        <mj-image
+          align="center"
+          width="100px"
+          height="100px"
+          src="https://svgshare.com/i/wmd.svg"
+        />
+        <mj-text align="center" css-class="featuresTitle">
+          Design and Motion Graphics
+        </mj-text>
+        <mj-text align="center" css-class="featuresDesc">
+          Enhance brand identity with creative designs and graphics.
+        </mj-text>
+      </mj-column>
+
+      <!-- Social Media Management -->
+      <mj-column vertical-align="bottom">
+        <mj-image
+          align="center"
+          width="100px"
+          height="100px"
+          src="https://svgshare.com/i/wmJ.svg"
+        />
+
+        <mj-text align="center" css-class="featuresTitle">
+          Social Media Management
+        </mj-text>
+        <mj-text align="center" css-class="featuresDesc">
+          Professional social media management for engagement.
+        </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section>
+      <!-- Mobile App Development -->
       <mj-column vertical-align="bottom">
         <mj-image
           align="center"
@@ -130,13 +135,12 @@
           src="https://svgshare.com/i/woP.svg"
         />
 
-        <mj-text align="center" css-class="featuresTitle"
-          >Mobile APP Declopment</mj-text
-        >
-        <mj-text align="center" css-class="featuresDesc"
-          >Empower your brand through our Mobile App Development – where
-          professionalism meets visual storytelling.</mj-text
-        >
+        <mj-text align="center" css-class="featuresTitle">
+          Mobile App Development
+        </mj-text>
+        <mj-text align="center" css-class="featuresDesc">
+          Empower your brand through visual storytelling.
+        </mj-text>
       </mj-column>
     </mj-section>
 
