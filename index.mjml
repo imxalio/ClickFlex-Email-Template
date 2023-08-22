@@ -1,0 +1,196 @@
+<!-- #E3592E -->
+<!-- #FAE6D8 -->
+
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      body{ padding:0; margin:0; } .title div { font-size: 32px !important;
+      font-weight: 700; } .description div { line-height: 1.6 !important; }
+      .featuresTitle div{ font-size: 24px !important; font-weight: 600
+      !important; } .featuresDesc div { font-size: 18px !important; line-height:
+      1.6 !important; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#FAE6D8">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/pTTsFrM3/logo.png" width="200px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section background-color="#FAE6D8">
+      <mj-column vertical-align="middle">
+        <mj-text css-class="title">Unleash Your Digital Potential</mj-text>
+        <mj-text css-class="description"
+          >Are you ready to elevate the quality of your marketing efforts to the
+          next level? We specialize in providing outstanding services to enhance
+          your online presence and brand visibility.</mj-text
+        >
+        <mj-button align="left" background-color="#E3592E" font-weight="700"
+          >Get Started</mj-button
+        >
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-image src="https://i.ibb.co/wCXWSnd/hero-removebg-preview.png" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Features Section -->
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="16px"
+          font-weight="600"
+          color="#E3592E"
+          >NEW RELEASES</mj-text
+        >
+        <mj-text font-size="30px" font-weight="600" align="center"
+          >Checkout our amazing features</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <!--  -->
+      <mj-column vertical-align="bottom">
+        <mj-image
+          align="left"
+          width="100px"
+          height="100px"
+          src="https://svgshare.com/i/wkZ.svg"
+        />
+        <mj-text css-class="featuresTitle">Digital Marketing</mj-text>
+        <mj-text css-class="featuresDesc"
+          >We offer strategic digital marketing services aimed at increasing
+          your online presence.</mj-text
+        >
+      </mj-column>
+
+      <!--  -->
+      <mj-column vertical-align="bottom">
+        <mj-image
+          align="left"
+          width="100px"
+          height="100px"
+          src="https://svgshare.com/i/wmJ.svg"
+        />
+
+        <mj-text css-class="featuresTitle">Social Media Managment</mj-text>
+        <mj-text css-class="featuresDesc"
+          >Let us professionally manage your social media accounts. We will
+          assist you in engaging with your audience</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <!--  -->
+
+    <mj-section>
+      <!--  -->
+      <mj-column vertical-align="bottom">
+        <mj-image
+          align="left"
+          width="100px"
+          height="100px"
+          src="https://svgshare.com/i/wmd.svg"
+        />
+        <mj-text css-class="featuresTitle">Desgin and Motion graphic</mj-text>
+        <mj-text css-class="featuresDesc"
+          >We will help you enhance your brand through attractive designs and
+          creative graphics.</mj-text
+        >
+      </mj-column>
+
+      <!--  -->
+      <mj-column vertical-align="bottom">
+        <mj-image
+          align="left"
+          width="100px"
+          height="100px"
+          src="https://svgshare.com/i/wmn.svg"
+        />
+
+        <mj-text css-class="featuresTitle">Media coverge</mj-text>
+        <mj-text css-class="featuresDesc"
+          >We will capture the essence of your brand through professional
+          photography and videography.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column vertical-align="bottom">
+        <mj-image
+          align="center"
+          width="100px"
+          height="100px"
+          src="https://svgshare.com/i/woP.svg"
+        />
+
+        <mj-text align="center" css-class="featuresTitle"
+          >Mobile APP Declopment</mj-text
+        >
+        <mj-text align="center" css-class="featuresDesc"
+          >Empower your brand through our Mobile App Development – where
+          professionalism meets visual storytelling.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="#FAE6D8">
+      <mj-column width="35%" vertical-align="middle">
+        <mj-table>
+          <tr style="list-style: none; line-height: 1">
+            <td style="padding-right: 10px">
+              <a href="#">
+                <img
+                  src="https://img.icons8.com/bubbles/500/facebook-new.png"
+                  alt="facebook"
+                  width="70px"
+                />
+              </a>
+            </td>
+            <td style="padding-right: 10px">
+              <a href="#">
+                <img
+                  src="https://img.icons8.com/bubbles/500/twitter-circled.png"
+                  alt="twitter"
+                  width="70px"
+                />
+              </a>
+            </td>
+            <td css-class="space">
+              <a href="#">
+                <img
+                  src="https://img.icons8.com/bubbles/500/instagram-new--v1.png"
+                  alt="instagram"
+                  width="70px"
+                />
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+
+      <mj-column width="65%" vertical-align="middle">
+        <mj-text
+          font-size="30px"
+          font-weight="bold"
+          color="#555"
+          align="right"
+          padding-right="25px"
+          padding="0px"
+          >Click Flex</mj-text
+        >
+        <mj-text font-size="16px" line-height="1.5" align="right"
+          >Don't miss the opportunity to make a significant impact in your
+          industry.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

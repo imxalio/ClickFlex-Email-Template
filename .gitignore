@@ -1,0 +1,7 @@
+# MJML
+node_modules/
+.cache/
+dist/
+.mjmlconfig
+.mjmlconfig.json
+.mjmlconfig.js
